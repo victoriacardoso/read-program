@@ -13,7 +13,7 @@ public class Program {
 		try {
 			int count = 0;
 
-			System.out.println("What type of the file?");
+			System.out.println("What the type of the file?");
 			System.out.println("1- TXT");
 			System.out.println("2- DOC/DOCX");
 			int type = sc.nextInt();
